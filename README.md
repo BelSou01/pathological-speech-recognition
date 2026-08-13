@@ -225,7 +225,7 @@ pathological-speech-recognition/
 
 ## Related Publication
 
-This repository is associated with the following research work:
+This repository is associated with the following research works:
 
 **Pathological voice classification system based on CNN-BiLSTM network using speech enhancement and multi-stream approach**
 
@@ -233,13 +233,23 @@ This repository is associated with the following research work:
 
 **Journal:** International Journal of Speech Technology
 
-**Year:** [05 July 2024]
+**Year:** 05 July 2024
 
 **DOI:** https://doi.org/10.1007/s10772-024-10120-w
 
 **Publication:** Belabbas, S., Addou, D. & Selouani, S.A. Pathological voice classification system based on CNN-BiLSTM network using speech enhancement and multi-stream approach. Int J Speech Technol 27, 483–502 (2024). https://doi.org/10.1007/s10772-024-10120-w
 
----
+**A Multifaceted Approach Based on Deep Learning Architectures for Dysarthric Speech Recognition**
+
+**Authors:** Soumeya Belabbas, Djamel Addou & Sid Ahmed Selouani
+
+**Conference:**   2025 International Conference on Intelligent Computer Systems, Data Science and Applications (IC2SDA)
+**Year:** 03-04 November 2025 
+
+**DOI:** https://doi.org/10.1109/IC2SDA68097.2025.11331376
+
+**Publication:** B. Soumeya, A. Djamel and S. Sid Ahmed, "A Multifaceted Approach Based on Deep Learning Architectures for Dysarthric Speech Recognition," 2025 International Conference on Intelligent Computer Systems, Data Science and Applications (IC2SDA), Blida, Algeria, 2025, pp. 1-5, doi: 10.1109/IC2SDA68097.2025.11331376.
+
 
 ## Experimental Evaluation
 
