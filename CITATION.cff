@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Pathological Speech Recognition Using Deep Learning"
+message: "If you use this repository in your research, please cite the associated publication."
+type: software
+
+authors:
+  - family-names: "Belabbas"
+    given-names: "Soumeya"
+
+repository-code: "https://github.com/BelSou01/pathological-speech-recognition"
+
+url: "https://github.com/BelSou01/pathological-speech-recognition"
+
+keywords:
+  - pathological speech
+  - speech recognition
+  - speech processing
+  - acoustic modeling
+  - speech enhancement
+  - deep learning
+  - CNN
+  - BiLSTM
